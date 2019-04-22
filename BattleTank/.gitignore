@@ -1,3 +1,6 @@
+ # Ignore starter content
+BattleTankGame2/Content/StarterContent/
+
 # Visual Studio 2015 user specific files
 .vs/
 
